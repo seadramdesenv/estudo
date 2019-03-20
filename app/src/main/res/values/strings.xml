@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">estudo</string>
     <string name="teste_git">TESTE GIT</string>
+    <string name="TESTE">TESTE GIT DOIS</string>
 </resources>
